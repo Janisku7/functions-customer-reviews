@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.0
+VisualStudioVersion = 15.0.26507.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentModeratorFunction.Tests", "ContentModeratorFunction.Tests\ContentModeratorFunction.Tests.csproj", "{CF93C3DE-30C7-4D34-8479-945D4EDE56E9}"
 EndProject
